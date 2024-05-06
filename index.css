@@ -1,0 +1,14 @@
+body {
+    background-color: powderblue;
+  }
+  .main{
+    font-style: italic;
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+
+.main1{
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
